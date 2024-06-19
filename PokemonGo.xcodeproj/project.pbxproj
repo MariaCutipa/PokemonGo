@@ -17,6 +17,7 @@
 		3CD081072C20B69D00646ECC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CD081062C20B69D00646ECC /* MapKit.framework */; };
 		3CD081092C20CC8500646ECC /* PokedexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD081082C20CC8500646ECC /* PokedexViewController.swift */; };
 		3CD0810B2C20CE4E00646ECC /* Funciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD0810A2C20CE4E00646ECC /* Funciones.swift */; };
+		CD5934AB2C2351BC007AF5BA /* PokePin.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD5934AA2C2351BC007AF5BA /* PokePin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		3CD081062C20B69D00646ECC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		3CD081082C20CC8500646ECC /* PokedexViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexViewController.swift; sourceTree = "<group>"; };
 		3CD0810A2C20CE4E00646ECC /* Funciones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Funciones.swift; sourceTree = "<group>"; };
+		CD5934AA2C2351BC007AF5BA /* PokePin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokePin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				3CD080EE2C20B50E00646ECC /* AppDelegate.swift */,
 				3CD080F02C20B50E00646ECC /* SceneDelegate.swift */,
 				3CD080F22C20B50E00646ECC /* ViewController.swift */,
+				CD5934AA2C2351BC007AF5BA /* PokePin.swift */,
 				3CD080F42C20B50E00646ECC /* Main.storyboard */,
 				3CD081082C20CC8500646ECC /* PokedexViewController.swift */,
 				3CD080FA2C20B50F00646ECC /* Assets.xcassets */,
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CD080F32C20B50E00646ECC /* ViewController.swift in Sources */,
+				CD5934AB2C2351BC007AF5BA /* PokePin.swift in Sources */,
 				3CD080F92C20B50E00646ECC /* PokemonGo.xcdatamodeld in Sources */,
 				3CD081092C20CC8500646ECC /* PokedexViewController.swift in Sources */,
 				3CD080EF2C20B50E00646ECC /* AppDelegate.swift in Sources */,
